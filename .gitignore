@@ -1,0 +1,4 @@
+langkit
+*.db
+*.db-journal
+.env
