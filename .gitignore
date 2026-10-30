@@ -1,4 +1,4 @@
-langkit
+/langkit
 *.db
 *.db-journal
 .env
