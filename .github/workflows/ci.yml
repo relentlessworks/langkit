@@ -23,4 +23,4 @@ jobs:
         run: go test -v ./...
 
       - name: Build
-        run: CGO_ENABLED=0 go build -o langkit ./cmd/langkit
+        run: CGO_ENABLED=0 go build -o /tmp/langkit ./cmd/langkit
